@@ -17,7 +17,7 @@ module.exports = {
         loaders:['babel?presets[]=react,presets[]=es2015']
       },
       {
-        test:/\.scss&/,
+        test:/\.scss$/,
         loaders:['style','css'],
         include: path.join(__dirname, './client/styles')
       },
