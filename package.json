@@ -1,0 +1,15 @@
+{
+  "name": "tabcontrol",
+  "version": "1.0.0",
+  "description": "react, node and webpack learning demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BigMurry <hhdiao@siom.ac.cn> (https://github.com/BigMurry)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
